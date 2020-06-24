@@ -1,0 +1,10 @@
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\bin\Debug\Log4Net.exe.config
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\bin\Debug\Log4Net.exe
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\bin\Debug\Log4Net.pdb
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\bin\Debug\log4net.dll
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\bin\Debug\log4net.xml
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\obj\Debug\Log4Net.csprojAssemblyReference.cache
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\obj\Debug\Log4Net.csproj.CoreCompileInputs.cache
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\obj\Debug\Log4Net.csproj.CopyComplete
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\obj\Debug\Log4Net.exe
+C:\Users\tubui\Desktop\Sources\Log4Net\Log4Net\obj\Debug\Log4Net.pdb
